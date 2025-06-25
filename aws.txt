@@ -1,3 +1,3 @@
 Install Git in Debian Linux distributions like Ubuntu
-sudo apt-get update
-sudo apt-get install -y git
+sudo yum update
+sudo yum install -y git
