@@ -1,0 +1,2 @@
+Check the status of the index.html file. index.html will be a untracked file
+git status
